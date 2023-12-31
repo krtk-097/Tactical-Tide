@@ -24,8 +24,8 @@ An Online multiplayer chess game. You can play against your friend or against th
 ![product-screenshot](https://github.com/krtk-097/Tactical-Tide/blob/main/backend/images/chess1.png)
 
 There are 2 modes in this game.<br />
- 1. Play with friend(Need to register first)<br />
- 2. Play against computer(Used Minimax algorithm to generate move. Improved using alpha beta pruning)<br />
+ 1. Play with friend (Need to register first)<br />
+ 2. Play against computer<br />
 
 
 ### Built With
@@ -46,16 +46,16 @@ To get a local copy up and running follow these simple example steps.
 
 Fork, then download or clone the repo.
 ```bash
-  git clone https://github.com/krtk-097/ChatApp.git
+  git clone https://github.com/krtk-097/Tactical-Tide.git
 ```
 
-For the **back-end**, go to **backend** folder and install the dependencies once via the terminal.
+For the **backend**, go to **backend** folder and install the dependencies once via the terminal.
 ```bash
   cd backend
   npm install
 ```
 
-If you want to configure the **frontend**, go to *frontend* folder via the terminal.
+For the **frontend**, go to **frontend** folder and install the dependencies once via the terminal.
 
 ```bash
   cd frontend
