@@ -24,8 +24,8 @@ An Online multiplayer chess game. You can play against your friend or against th
 ![product-screenshot](https://github.com/krtk-097/Tactical-Tide/blob/main/backend/images/chess1.png)
 
 There are 2 modes in this game.<br />
- 1. Play with friend(Need to register first)<br />
- 2. Play against computer(Used Minimax algorithm to generate move. Improved using alpha beta pruning)<br />
+ 1. Play with friend (Need to register first)<br />
+ 2. Play against computer<br />
 
 
 ### Built With
