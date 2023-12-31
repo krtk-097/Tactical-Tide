@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple example steps.
 
 Fork, then download or clone the repo.
 ```bash
-  git clone https://github.com/krtk-097/ChatApp.git
+  git clone https://github.com/krtk-097/Tactical-Tide.git
 ```
 
 For the **back-end**, go to **backend** folder and install the dependencies once via the terminal.
