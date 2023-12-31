@@ -49,13 +49,13 @@ Fork, then download or clone the repo.
   git clone https://github.com/krtk-097/Tactical-Tide.git
 ```
 
-For the **back-end**, go to **backend** folder and install the dependencies once via the terminal.
+For the **backend**, go to **backend** folder and install the dependencies once via the terminal.
 ```bash
   cd backend
   npm install
 ```
 
-If you want to configure the **frontend**, go to *frontend* folder via the terminal.
+For the **frontend**, go to **frontend** folder and install the dependencies once via the terminal.
 
 ```bash
   cd frontend
