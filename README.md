@@ -1,5 +1,5 @@
-# Multiplayer-Chess-Game
-Online multiplayer chess game. You can play against your friend or against the computer.
+# Tactical Tide
+An Online multiplayer chess game. You can play against your friend or against the computer.
 
 <details open="open">
   <summary>Table of Contents</summary>
