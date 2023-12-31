@@ -55,7 +55,7 @@ For the **back-end**, go to **backend** folder and install the dependencies once
   npm install
 ```
 
-If you want to configure the **front-end**, go to *frontend* folder via the terminal.
+If you want to configure the **frontend**, go to *frontend* folder via the terminal.
 
 ```bash
   cd frontend
